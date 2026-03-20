@@ -1,3 +1,12 @@
+![Release](https://img.shields.io/github/v/release/Takkunlego0916/AutoClicker)
+![Downloads](https://img.shields.io/github/downloads/Takkunlego0916/AutoClicker/total)
+![License](https://img.shields.io/github/license/Takkunlego0916)
+
+![Windows](https://img.shields.io/badge/Platform-Windows-blue)
+![Android](https://img.shields.io/badge/Platform-Android-green)
+
+[![Download](https://img.shields.io/badge/Download-Releases-brightgreen)](https://github.com/Takkunlego0916/AutoClicker/releases)
+
 # AutoClicker
 
 Windows / Android 対応のシンプルなオートクリッカーです。
