@@ -73,4 +73,31 @@
             android:textColor="#FFFFFF"
             android:enabled="false"/>
     </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSetStartKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="開始キー変更" />
+
+    <Button
+        android:id="@+id/btnSetStopKey"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="停止キー変更" />
+
+    <TextView
+        android:id="@+id/tvHotkey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="開始: F6 / 停止: F7"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="4dp"/>
+
+    <TextView
+        android:id="@+id/tvCaptureState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="待機中"
+        android:textColor="#AAAAAA" />
 </LinearLayout>
