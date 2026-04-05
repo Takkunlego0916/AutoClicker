@@ -222,7 +222,6 @@ class AutoClickService : AccessibilityService() {
             gesture,
             object : AccessibilityService.GestureResultCallback() {
                 override fun onCompleted(gestureDescription: GestureDescription?) {
-                    // 成功時は次のループへ
                 }
 
                 override fun onCancelled(gestureDescription: GestureDescription?) {
