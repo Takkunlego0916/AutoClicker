@@ -17,17 +17,17 @@ Windows / Android 対応のシンプルなオートクリッカーです。
 
 実行ファイルは以下から取得してください。
 
-👉 GitHubの「Releases」からダウンロード
+GitHubの「Releases」からダウンロード
 
-* Windows: `AutoClicker.exe`
-* Android: `AutoClicker.apk`
+* Windows: `AutoClicker-Windows.exe`
+* Android: `AutoClicker-Android.apk`
 
 ---
 
 ## 対応環境
 
 * Windows OS 10 / 11
-* Android OS（アクセシビリティ機能対応端末）
+* Android OS 8 (アクセシビリティ機能対応端末）
 
 ---
 
@@ -44,7 +44,7 @@ Windows / Android 対応のシンプルなオートクリッカーです。
 
 ### Windows
 
-1. `.exe` を起動
+1. `AutoClicker-Windows.exe` を起動
 2. クリック位置を設定
 3. スタートで自動クリック開始
 
@@ -52,7 +52,7 @@ Windows / Android 対応のシンプルなオートクリッカーです。
 
 ### Android
 
-1. APKをインストール
+1. AutoClicker-Androidをインストール
 2. アプリを起動
 3. アクセシビリティサービスを有効化
 4. フローティングUIから操作
